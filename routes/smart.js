@@ -4,7 +4,7 @@ const router = express.Router();
 const smartdata = [
   {
     _id: 1,
-    title: "Long sleeve Jackets",
+    title: "Long sleeve Jacket",
     isNew: true,
     oldPrice: "200",
     price: 15000,
