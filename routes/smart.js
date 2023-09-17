@@ -5,9 +5,9 @@ const smartdata = [
   {
     _id: 1,
     title: "Long sleeve Jackets",
-    isNew: false,
+    isNew: true,
     oldPrice: "200",
-    price: 15000,
+    price: 1,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
     category: "women",
