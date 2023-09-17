@@ -5,7 +5,7 @@ const smartdata = [
   {
     _id: 1,
     title: "Long sleeve Jackets",
-    isNew: true,
+    isNew: false,
     oldPrice: "200",
     price: 15000,
     description:
